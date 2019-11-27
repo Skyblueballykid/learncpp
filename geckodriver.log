@@ -1,0 +1,967 @@
+1574717941773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileOAuKpf"
+1574717942594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574717942594	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574717942595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574717942595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1574717945193	Marionette	INFO	Listening on port 59108
+1574717945457	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannel.contentType]
+[Child 13552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 2544, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574717981867	Marionette	INFO	Stopped listening on port 59108
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574718037853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilecOxS9X"
+1574718038263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574718038263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574718038263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574718038263	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1574718040749	Marionette	INFO	Listening on port 59254
+1574718041031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://imasdk.googleapis.com/formats/outstream/versioned/prod/outstream_web_client_20191113_RC00/outstream.min.js, line 516: Error: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+[Child 8980, MediaDecoderStateMachine #1] WARNING: Decoder=15280ca6000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 352
+[Child 8980, MediaDecoderStateMachine #1] WARNING: Decoder=15280ca6000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file z:/task_1572401533/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3305
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_41_5/adkit.js, line 1: Error: Script error for: client
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_41_5/adkit.js, line 1: Error: Script error for: client
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+JavaScript error: , line 0: uncaught exception: An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574719695115	Marionette	INFO	Stopped listening on port 59254
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1574722270590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileMaSW7x"
+1574722320807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofilestNgW0"
+1574722321234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574722321234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574722321235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574722321235	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1574722323240	Marionette	INFO	Listening on port 62618
+1574722323465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://secure-ds.serving-sys.com/BurstingCachedScripts/adkit/1_0_41_5/adkit.js, line 1: Error: Script error for: client
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20191114/r20110914/client/qs_click_protection.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Child 14276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16324, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1574352431/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1574727862509	Marionette	INFO	Stopped listening on port 62618
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
